@@ -1,3 +1,1 @@
- find matching pipes and o-rings to build a piston out of all the shit Home Depot has available.
- Inside pipe is the piston, outside pipe is the shell.
- beep.
+given lengths of available stock and needed lumber, I will tell you how to cut the stock efficiently.
