@@ -1,1 +1,1 @@
-lmnopgiven lengths of available stock and needed lumber, I will tell you how to cut the stock efficiently.
+given lengths of available stock and needed lumber, I will tell you how to cut the stock fficiently.
